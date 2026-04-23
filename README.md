@@ -87,7 +87,7 @@ All filtering, sorting, and aggregation operations are executed at the database 
 
 Base URL (Deployed)
 
-    https://payment-service-u2p7.onrender.com
+https://payment-service-u2p7.onrender.com
 
 ### POST /events
 
